@@ -6,7 +6,7 @@ e.last_name,
 titles.title,
 titles.from_date,
 titles.to_date
-INTO retiremen_info
+INTO retirement_titles
 FROM employees AS e
 JOIN titles ON e.emp_no = titles.emp_no
 WHERE (birth_date BETWEEN '1952-01-01' AND '1955-12-31')
@@ -18,7 +18,7 @@ emp_no,
 first_name,
 last_name
 INTO unique_titles
-FROM retiremen_info
+FROM retirement_titles
 WHERE to_date = '9999-01-01'
 ORDER BY emp_no, to_date DESC;
 
