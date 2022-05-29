@@ -17,6 +17,9 @@ The purpose of the analysis is to prepare for a potential large group of job vac
 
 # Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 ## How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-The employees who are eligible for retirement were pulled into the Unique Titles table - 72,458 employees total. This sounds like a lot of people, but we're only basing this off of retirement age, which is not the only factor in determining whether someone is ready to retire. We can look at additional data like how long the employee has worked at PH and their retirement contributions. 
+The employees who are eligible for retirement were pulled into the Unique Titles table - 72,458 employees total. This sounds like a lot of people, but we're only basing this off of retirement age, which is not the only factor in determining whether someone is ready to retire. 
+We can look at additional data and run queries on the following:
+- How long the employee has worked at PH 
+- How much money they have in their retirement contributions 
 ## Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 We have over 72,000 employees who are retirement age and around 300,000 employees total in the mentorship eligibility list. That would make it about 1:4 people as mentors and mentees respectively. I think this would be doable, but I do think PH should offer additional monetary packages for employees who mentor the younger generation prior to retirement. 
